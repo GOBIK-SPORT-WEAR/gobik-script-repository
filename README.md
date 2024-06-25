@@ -44,7 +44,7 @@ cd biblioteca-de-scripts/scripts
 Para usar un script, sigue las instrucciones específicas proporcionadas en los comentarios del script o en los archivos README individuales dentro de cada subcarpeta.
 
 ## Licencia
-Este proyecto está licenciado bajo la Licencia MIT - mira el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo una Licencia Personalizada y Restrictiva - mira el archivo LICENSE para más detalles.
 
 ## Autores y Reconocimientos
 
